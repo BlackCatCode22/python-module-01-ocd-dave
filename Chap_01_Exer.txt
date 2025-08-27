@@ -1,4 +1,4 @@
-Chapter 1 Exercises 
+Chap_01_Ex 
 David Marrash
 
 Exercise 1: What is the function of the secondary memory in a computer?
@@ -68,3 +68,4 @@ Exercise 8: Explain each of the following using an example of a human capability
 	5 - Output Device: human equivalent is our ability to communicate (express) or display the results of the computer's processing. This could include a monitor for showing visuals, speakers for producing sound, or a printer for producing physical documents. 
 
 If you find a mistake in this book, feel free to send me a fix using Github.
+
