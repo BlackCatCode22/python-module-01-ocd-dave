@@ -10,5 +10,4 @@ print("")
 print("The sum of " + str(num1) + " and " + str(num2) + " is: " + str(sumOfNums))
 print()
 print()
-
 print("end of python_test01.py")
